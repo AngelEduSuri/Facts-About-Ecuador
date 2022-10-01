@@ -2,7 +2,7 @@
 
 A simple app with 30 interesting facts about Ecuador. It's a project to practice Jetpack Compose Animation and how to create a lazy list animated when its items are loaded vertically and how they enter from left or right alternately with a `spring effect`. Also, when an item is clicked, it will show more information about the facts with an `expanded effect` on the text.
 
-## Screenshot
+## Screenshots
 
 <div style="display:flex;justify-content: center">
 
