@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">30 Curiosidades sobre Ecuador</string>
+
+    <!-- TITLES -->
+    <string name="fact_number_one_title">Del dominio Inca al Español</string>
+    <string name="fact_number_two_title">Formó parte de la Gran Colombia</string>
+    <string name="fact_number_three_title">¿A qué debe su nombre?</string>
+    <string name="fact_number_four_title">El voto… ¿Derecho u obligación?</string>
+    <string name="fact_number_five_title">Una alta densidad poblacional</string>
+    <string name="fact_number_six_title">Poblado en la antigüedad</string>
+    <string name="fact_number_seven_title">Lugar de Patrimonios de la Humanidad</string>
+    <string name="fact_number_eight_title">Un árbol nacional curativo</string>
+    <string name="fact_number_nine_title">La cima del mundo</string>
+    <string name="fact_number_ten_title">La división geográfica</string>
+    <string name="fact_number_eleven_title">Un lugar para la ciencia</string>
+    <string name="fact_number_twelve_title">Bananos, producto estrella</string>
+    <string name="fact_number_thirteen_title">Productor de petróleo</string>
+    <string name="fact_number_fourteen_title">Un cambio de moneda</string>
+    <string name="fact_number_fifteen_title">Las lenguas indígenas</string>
+    <string name="fact_number_sixteen_title">Días uniformes</string>
+    <string name="fact_number_seventeen_title">El volcán más activo</string>
+    <string name="fact_number_eighteen_title">La ciudad de la mitad del mundo</string>
+    <string name="fact_number_nineteen_title">La capital más alta</string>
+    <string name="fact_number_twenty_title">Los sombreros… ecuatorianos</string>
+    <string name="fact_number_twenty_one_title">Los derechos de la naturaleza</string>
+    <string name="fact_number_twenty_two_title">El simbolismo de su bandera</string>
+    <string name="fact_number_twenty_three_title">Un novedoso método de recolección de desechos</string>
+    <string name="fact_number_twenty_four_title">Fantástica biodiversidad</string>
+    <string name="fact_number_twenty_five_title">Una gastronomía variada</string>
+    <string name="fact_number_twenty_six_title">El paraíso de las orquídeas</string>
+    <string name="fact_number_twenty_seven_title">El pasado en cada esquina</string>
+    <string name="fact_number_twenty_eight_title">El tren más difícil del mundo</string>
+    <string name="fact_number_twenty_nine_title">La Reserva Faunística Yasuní</string>
+    <string name="fact_number_thirty_title">Destino de retiro</string>
+
+    <!-- DESCRIPTIONS -->
+    <string name="fact_number_one_description">Los territoros actuales que conforma Ecuador fueron conquistadas en primer lugar por el imperio incaico, en el siglo XV. Más tarde, a mediados del siglo XVI, serían los españoles quienes iniciarían su poder.</string>
+    <string name="fact_number_two_description">Tras conseguir la independencia de España, el prócer venezolano Simón Bolívar unió al país con Venezuela y Colombia, que incluía lo que hoy es Panamá, para formar una gran nación a la que llamó la Gran Colombia, este país duró entre 1819 y 1830.</string>
+    <string name="fact_number_three_description">Ecuador es el único país que tiene por nombre una característica geográfica. Se llama Ecuador porque el ecuador lo atraviesa. Aunque no es la única nación atravesada por esta línea, si fue la que se quedó con el nombre.</string>
+    <string name="fact_number_four_description">Uno de los datos curiosos de Ecuador es que el emitir un voto cuando son llamados a las urnas no es sólo un derecho, sino también una obligación. Todos los ciudadanos entre 18 y 65 años están obligados a votar.</string>
+    <string name="fact_number_five_description">Ecuador es el país más densamente poblado de América del Sur y el quinto del continente americano. Con poco más de 256 mil kilómetros cuadrados, tiene una densidad de población de 68 habitantes por kilómetro.</string>
+    <string name="fact_number_six_description">En el territorio en el que hoy se definen los límites del país, se asentaron los primeros humanos hace más de 14.000 años. Esto sin duda ha influido en la construcción de una cultura con valiosos visos ancestrales.</string>
+    <string name="fact_number_seven_description">En 1978, en la conferencia inaugural de la Convención del Patrimonio Mundial de la UNESCO los dos primeros sitios nombrados Patrimonio Mundial estaban en Ecuador. Fueron las Islas Galápagos y Quito, la capital.</string>
+    <string name="fact_number_eight_description">Sumamos a las curiosidades de Ecuador es que su árbol nacional, el cinchona, es el que produce la quinina, el primer medicamento utilizado para prevenir y tratar la malaria.</string>
+    <string name="fact_number_nine_description">En Ecuador, se cuenta el hecho de que son los dueños de la cima del mundo. En efecto, se trata del punto más alejado del centro de la tierra, el monte Chimborazo. Gana al Everest por 2,4 kilómetros aproximadamente. Esto se debe a que la Tierra se ensancha en la zona del ecuador.</string>
+    <string name="fact_number_ten_description">Ecuador está dividido geográficamente en 4 regiones muy diferentes: la Costa que son las tierras bajas costeras, la Sierra o tierras altas de las montañas, al este la Amazonia o el Oriente que son las tierras bajas de la jungla oriental y por último la región insular que son las Islas Galápagos, que se encuentran a unos 1.000 km. del Ecuador continental.</string>
+    <string name="fact_number_eleven_description">En el lejano año de 1835, Charles Darwin, a bordo del Beagle, arribó a las Islas Galápagos. Gran parte de sus descubrimientos y observaciones en el lugar sirvieron de base a su teoría de la evolución.</string>
+    <string name="fact_number_twelve_description">¿Alguna vez has acompañado tu almuerzo o cena con unos plátanos fritos, al honor o al vapor? Pues si eres fan de este delicioso fruto, seguro te gustará saber que Ecuador es el mayor exportador de plátanos del mundo.</string>
+    <string name="fact_number_thirteen_description">Además del banano, Ecuador es también es una nación petrolera. Si bien no están al nivel de países como Venezuela, la producción de este mineral en suelo ecuatoriano equivale a un 33% de los ingresos del país. ¡Nada despreciable!</string>
+    <string name="fact_number_fourteen_description">Si viajas desde Europa o Estados Unidos hasta América Latina, deberás conocer la moneda y el tipo de cambio local. Pero en Ecuador no tendrás que preocuparte mucho por esto. Desde el año 2000 la moneda oficial del país es el dólar estadounidense.</string>
+    <string name="fact_number_fifteen_description">Si bien el español es el idioma oficial del país, existen también trece idiomas indígenas reconocidos y que se hablan de manera habitual en algunas comunidades.</string>
+    <string name="fact_number_sixteen_description">En Ecuador la duración de los días prácticamente no tiene diferencia entre el invierno y el verano y esto se debe a su ubicación en el ecuador terrestre. El amanecer y el atardecer se produce sobre la 6 a.m. y las 6 p.m. durante todo el año.</string>
+    <string name="fact_number_seventeen_description">Ecuador es una tierra repleta de actividad volcánica, y es justo eso lo que la dota de algunos de sus paisajes más emblemáticos. Sumamos a esta lista de curiosidades de Ecuador el hecho de que en su territorio está el volcán activo más alto del mundo, el Cotopaxi.</string>
+    <string name="fact_number_eighteen_description">Al norte de Quito, a unos 26 kilómetros de la capital de Ecuador, está la Ciudad Mitad del Mundo. Debido a que ni Asia ni África ofrecían estabilidad, entre 1736 y 1744 la misión geodésica franco-española viajó a Ecuador para ubicar el sitio aproximado por el cual pasa la línea equinoccial, es decir la Mitad del Mundo.</string>
+    <string name="fact_number_nineteen_description">Su capital, Quito, es la más alta del mundo, con 2.850 metros sobre el nivel del mar. La Paz en Bolivia estaría más alta, pero no es la capital constitucional, que recae en la ciudad de Sucre.</string>
+    <string name="fact_number_twenty_description">¿Has oído hablar de los «sombreros de Panamá»? Pues realmente son originarios de Ecuador. Se fabricaban en este país y se exportaban para proteger del sol a los obreros que construían el Canal de Panamá. Más tarde se vendieron a los turistas que cruzaban el canal.</string>
+    <string name="fact_number_twenty_one_description">La Constitución del Ecuador reconoce los Derechos de la Naturaleza. Dice exactamente: “La naturaleza o Pacha Mama, donde se reproduce y realiza la vida, tiene derecho a que se respete integralmente su existencia y el mantenimiento y regeneración de sus ciclos vitales, estructura, funciones y procesos evolutivos […].»</string>
+    <string name="fact_number_twenty_two_description">El simbolismo de su colorida bandera está compuesta por tres bandas de tres colores: el amarillo, que representa la diversidad del país y es el doble de ancha que las otras, el azul por el mar y el cielo y el rojo por la sangre de los que lucharon por su independencia.</string>
+    <string name="fact_number_twenty_three_description">En el año 2012 en la ciudad de Guayaquil, se puso en marcha una campaña de limpieza que consistió en que los camiones de la basura emitían una música en lugar de pitidos para avisar de su llegada. Siete de cada diez habitantes de la ciudad se manifestaron satisfechos con la iniciativa</string>
+    <string name="fact_number_twenty_four_description">Además de las extraordinarias especies animales que poseen, el suelo ecuatoriano también es el hogar de unas 25.000 especies de plantas diferentes, siendo uno de las países mas biodeversos del mundo.</string>
+    <string name="fact_number_twenty_five_description">En Ecuador es el hecho de que es difícil afirmar que exista una comida que pueda llamarse «nacional», ya que la cocina varía mucho de un lugar a otro del país. En la costa se consume más pescado, plátanos y frijoles y en la Sierra carne, maíz blanco y arroz.</string>
+    <string name="fact_number_twenty_six_description">Se trata del país con la mayor cantidad de especies de orquídeas: tiene 4.250. De ellas, 1.301 son endémicas del país. Entre estos miles de orquídeas podrás disfrutar de la «dracula simia» que ha desarrollado un extraordinario parecido con la cara de un mono.</string>
+    <string name="fact_number_twenty_seven_description">Si eres de los viajeros que disfrutan de respirar las glorias del pasado en cada región que visitan, Ecuador será uno de tus destinos predilectos. Y es que pasear por las calles de Cuenca o por el centro histórico de Quito, es hacer un viaje directo al pasado. De hecho, el centro histórico de Quito es el más grande y mejor conservado de América y fue uno de los primeros sitios protegidos por la UNESCO en Ecuador.</string>
+    <string name="fact_number_twenty_eight_description">Se trata de un ferrocarril que empezó a construirse en 1861 y se terminó en 1908, llevándose la vida de varias personas que participaron en las obras. La compleja geografía del sector, los derrumbes y las explosiones con dinamita convirtieron a esta obra maestra de la ingeniería en un reto difícil de superar. Hoy, en tren se trepa por la montaña conocida como La Nariz del Diablo.</string>
+    <string name="fact_number_twenty_nine_description">La Reserva Faunística Yasuní alberga a casi el 10% de todas las especies del planeta. Con cerca de 10 mil kilómetros cuadrados, en pleno corazón de la Amazonía y rodeado de ríos y llanuras, es una verdadera oda a la magia de la naturaleza.</string>
+    <string name="fact_number_thirty_description">Ecuador se está convirtiendo en un retiro dorado para jubilados norteamericanos. Espectaculares paisajes unidos a una alta calidad de vida a unos costos muy moderados, lo hacen un destino ideal para este público.</string>
+
+</resources>
